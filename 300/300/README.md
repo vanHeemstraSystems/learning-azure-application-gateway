@@ -1,4 +1,4 @@
-# 300 - Azure Application Gateway Deep Dive
+# 300 - Azure Application Gateway Reverse Engineering
 
 This is a comprehensive reverse engineering breakdown of Azure Application Gateway following the exact same pattern. 
 
